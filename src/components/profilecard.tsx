@@ -45,7 +45,7 @@ export default function ProfileCard() {
 
   return (
     <div className="grid col-start-1 row-start-4 pl-10">
-      <div className="flex items-center min-h-screen justify-center">
+      {/* <div className="flex items-center min-h-screen justify-center"> */}
         <Card>
           <div className="flex flex-col items-center">
             <Image
@@ -102,6 +102,6 @@ export default function ProfileCard() {
           </Button>
         </Card>
       </div>
-    </div>
+    // </div>
   );
 }
