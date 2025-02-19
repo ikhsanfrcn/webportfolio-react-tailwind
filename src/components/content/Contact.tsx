@@ -8,8 +8,8 @@ const Contact = () => {
       {/* Social Links */}
       <div className="flex gap-5 text-black dark:text-white text-3xl py-3">
         <a href="mailto:your.email@example.com" className="hover:text-[#B7A261]"><FaEnvelope /></a>
-        <a href="https://github.com/yourgithub" target="_blank" className="hover:text-[#B7A261]"><FaGithub /></a>
-        <a href="https://linkedin.com/in/yourlinkedin" target="_blank" className="hover:text-[#B7A261]"><FaLinkedin /></a>
+        <a href="https://github.com/ikhsanfrcn" target="_blank" className="hover:text-[#B7A261]"><FaGithub /></a>
+        <a href="https://linkedin.com/in/ikhsanfrcn" target="_blank" className="hover:text-[#B7A261]"><FaLinkedin /></a>
       </div>
       
       {/* Contact Form */}
